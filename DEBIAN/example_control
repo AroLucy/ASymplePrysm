@@ -1,0 +1,8 @@
+Package:
+Name: 
+Version: 
+Architecture: iphoneos-arm
+Author:  
+Maintainer: 
+Description: 
+Depends: com.laughingquoll.prysm, mobilesubstrate, firmware (>= 10.0)
